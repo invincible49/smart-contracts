@@ -15,6 +15,6 @@ https://etherscan.io/address/0xa08de8f020644dccd0071b3469b45b08de41c38b#code
 CARROT is a DAO (forked from Compound), all governance decisions are voted on by CARROT holders (on chain whenever possible).
 
 ### How is CARROT distributed?
-It is fully distributed to whitelist participants from Dec28 to Jan31 (35d). The first to claim will receive 250% more than the last (bonding curve).
+It will fully distributed to communty with Crowdsale from Dec28 to Jan31 (35d). The first to claim will receive 250% more than the last (bonding curve).
 ### How is the STAKE rewards distributed?
 Rewards are distributed on a Smart Contract. First Staking Pool APY is %395 and treasury minted 10 million Carrot tokens (Future pool can create by DAO and APY rate also change) . 
